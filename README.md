@@ -83,13 +83,9 @@ https://github.com/MK-codes365/vanisetu
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MK-codes365&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-codes365&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MK-codes365&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MK-codes365&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -107,7 +103,8 @@ https://github.com/MK-codes365/vanisetu
 - 🧠 Solved **100+ DSA problems** on LeetCode & GeeksforGeeks.
 - 🥇 **15th Rank / 1000+ participants** – Open Code 25 (IIIT Allahabad).
 - 🥇 **Finalist** – Elite Hack 1.0 (National Hackathon)
-- 🥈 **5th Position** – Aurigo Infracode Hackathon.
+- 🥇 **Finalist** – Hackshodh: Chhatrapati Shahu Ji Maharaj University,kanpur (National Hackathon)
+- 🥈 **5th Position** – Aurigo Infracode Hackathon: IIIT Bangalore (National Hackathon)
 - 🚀 **Waitlisted** – Smart India Hackathon 2025 (National Level).
 - 🤖 **Selected** – AI for Bharat 2026 (Hack2Skill).
 - 👨‍🏫 Organized **DSA Workshops** and mentored **100+ students**.
