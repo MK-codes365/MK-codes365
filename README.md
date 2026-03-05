@@ -5,17 +5,17 @@
 <img src="https://img.shields.io/github/followers/MK-codes365?label=Followers&style=for-the-badge&color=blue"/>
 <img src="https://img.shields.io/github/stars/MK-codes365?label=Stars&style=for-the-badge&color=yellow"/>
 </p>
----
+
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=70&lines=Hi+👋+I'm+Mukut+Kumar;Full+Stack+Developer;AI+Engineer+in+Progress;Building+Vani+Setu+for+Bharat;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
----
+
 <!-- ================= CODING GIF ================= -->
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
----
+
 # 🌟 About Me
 
 * 🎓 **B.Tech Student (3rd Year)** at Chhatrapati Shahu Ji Maharaj University, Kanpur
