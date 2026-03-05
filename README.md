@@ -1,54 +1,21 @@
 <!-- ================= BEAUTIFUL HEADER ================= -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Mukut%20Kumar&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=60&descSize=18" width="100%"/>
-
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=MK-codes365&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/MK-codes365?label=Followers&style=for-the-badge&color=blue"/>
-
 <img src="https://img.shields.io/github/stars/MK-codes365?label=Stars&style=for-the-badge&color=yellow"/>
-
 </p>
-
 ---
-
 <!-- ================= TYPING ANIMATION ================= -->
-
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=70&lines=Hi+👋+I'm+Mukut+Kumar;Full+Stack+Developer;AI+Engineer+in+Progress;Building+Vani+Setu+for+Bharat;Open+Source+Contributor;Always+Learning+New+Technologies" />
-
 </p>
-
 ---
-
-<!-- ================= CODING ANIMATION ================= -->
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
-
-</p>
-
----
-
-<h3 align="center">
-⚡ Building Technology for Bharat 🇮🇳
-</h3>
-
-
----
-
 <!-- ================= CODING GIF ================= -->
-
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
-
 ---
-
 # 🌟 About Me
 
 * 🎓 **B.Tech Student (3rd Year)** at Chhatrapati Shahu Ji Maharaj University, Kanpur
@@ -58,7 +25,6 @@
 * 🤝 Open to **collaboration on AI & Web projects**
 
 ---
-
 # 🛠 Tech Stack
 
 <p align="center">
