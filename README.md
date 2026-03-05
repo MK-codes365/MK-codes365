@@ -18,36 +18,15 @@ Building <b>Vani Setu</b> — AI for Bharat 🇮🇳
 
 ---
 
-<!-- ================= SOCIAL BADGES ================= -->
 
-<p align="center">
-<a href="https://github.com/MK-codes365">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:mukutkumar842@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-</p>
 
 ---
 
-<!-- ================= VISITOR COUNT ================= -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MK-codes365&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
 
 <!-- ================= CODING GIF ================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -66,7 +45,7 @@ Building <b>Vani Setu</b> — AI for Bharat 🇮🇳
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,python,git,github,c++,vercel,aws" />
+<img src="https://skillicons.dev/icons?i=c/c++,react,js,ts,nodejs,express,mongodb,python,git,github,vercel,aws" />
 
 </p>
 
@@ -91,7 +70,10 @@ Voice Access to Government Services for Rural India
 ### Preview
 
 <p align="center">
-<img src="<img width="300" height="300" alt="Screenshot 2026-03-06 012824" src="https://github.com/user-attachments/assets/82787125-d7ec-43b0-99f4-324fc47adf3a/>
+<img width="300" height="300" alt="vani" src="<img width="1832" height="863" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605" />
+<img width="300" height="300" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605" />
+" />
+
 </p>
 
 🔗 **Repository:**  
