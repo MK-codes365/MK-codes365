@@ -53,34 +53,24 @@ const mukut = {
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MK-codes365&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-codes365&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=MK-codes365&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
-
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MK-codes365&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=MK-codes365&theme=tokyonight" />
 </p>
-
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MK-codes365&theme=tokyonight&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=MK-codes365&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=7" />
 </p>
 
 ---
