@@ -14,7 +14,7 @@
 - 🎓 B.Tech Student (3rd Year)  
 - 💻 Passionate about **Web Development & AI**
 - 🚀 Currently building **Vani Setu – AI for Bharat 2026 Project**
-- 🌱 Learning **TypeScript, System Design**
+- 🌱 Learning **TypeScript, System Design, Data Structure and Algorithm**
 - 🤝 Open to **collaboration on AI & Web projects**
 
 ---
@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vue,js,ts,nodejs,express,mongodb,python,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,python,git,github,C++,vercel,aws" />
 
 </p>
 
@@ -75,13 +75,14 @@ https://github.com/MK-codes365/vanisetu
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-- 🚀 Participating in **AI for Bharat 2026**
-- 🧠 Building AI solutions for rural India
-- 💡 Open source enthusiast
-
----
+- 🧠 Solved **100+ DSA problems** on LeetCode & GeeksforGeeks.
+- 🥇 **15th Rank / 100+ participants** – Open Code 25 (IIIT Allahabad).
+- 🥈 **5th Position** – Aurigo Infracode Hackathon.
+- 🚀 **Waitlisted** – Smart India Hackathon 2025 (National Level).
+- 🤖 **Selected** – AI for Bharat 2026 (Hack2Skill).
+- 👨‍🏫 Organized **DSA Workshops** and mentored **100+ students**.
 
 # 🌍 Connect With Me
 
