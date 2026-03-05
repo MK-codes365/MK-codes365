@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋 I'm Mukut Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Vue+Developer;Building+Vani+Setu+Project;AI+for+Bharat+2026;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Vue+Developer;Building+Real+World+Projects;AI+for+Bharat+2026+Participant;Open+Source+Contributor"/>
 </p>
 
 ---
@@ -19,9 +19,8 @@ const mukut = {
   role: "Frontend Developer",
   location: "India 🇮🇳",
   university: "Chhatrapati Shahu Ji Maharaj University, Kanpur",
-  project: "Vani Setu (AI for Bharat 2026)",
-  learning: ["TypeScript", "Advanced React"],
-  interests: ["Open Source", "AI", "Frontend Development"]
+  learning: ["TypeScript", "Advanced React", "AI Integration"],
+  interests: ["Open Source", "AI for Social Impact", "Frontend Development"]
 }
 ```
 
@@ -57,9 +56,9 @@ const mukut = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MK-codes365&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MK-codes365&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-codes365&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-codes365&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -79,7 +78,7 @@ const mukut = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MK-codes365&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MK-codes365&theme=tokyonight"/>
 
 </p>
 
@@ -95,18 +94,19 @@ const mukut = {
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## 🌐 Vani Setu
+### 🏥 HealConnect
 
-AI powered platform helping rural citizens access government services.
+Healthcare platform connecting patients with doctors.
 
-Features
+🔗 https://github.com/MK-codes365/healconnect
 
-✔ Voice-based service discovery
-✔ Multilingual support
-✔ Government scheme guidance
-✔ AI-powered chatbot
+---
+
+### 🌐 Vani Setu
+
+AI-powered platform helping rural citizens access government services.
 
 🔗 https://github.com/MK-codes365/vanisetu
 
@@ -134,7 +134,7 @@ Features
 
 # ⚡ Fun Fact
 
-> I enjoy building **technology that solves real problems in India 🇮🇳**
+> I love building **technology that solves real-world problems in India 🇮🇳**
 
 ---
 
@@ -146,4 +146,4 @@ Features
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,50:004e92,100:000428&section=footer"/>
-<
+</p>
