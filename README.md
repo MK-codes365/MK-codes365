@@ -26,7 +26,7 @@ Building <b>Vani Setu</b> — AI for Bharat 🇮🇳
 <!-- ================= CODING GIF ================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -70,9 +70,8 @@ Voice Access to Government Services for Rural India
 ### Preview
 
 <p align="center">
-<img width="300" height="300" alt="vani" src="<img width="1832" height="863" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605" />
-<img width="300" height="300" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605" />
-" />
+
+<img width="500" height="500" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605" />
 
 </p>
 
