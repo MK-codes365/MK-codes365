@@ -43,7 +43,9 @@ Building <b>Vani Setu</b> — AI for Bharat 🇮🇳
 # 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,react,js,ts,nodejs,express,mongodb,python,git,github,vercel,aws" />
+
 </p>
 
 ---
@@ -67,23 +69,13 @@ Building <b>Vani Setu</b> — AI for Bharat 🇮🇳
 ### Preview
 
 <p align="center">
-<img width="600" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605"/>
+
+<img width="600" alt="vani" src="https://github.com/user-attachments/assets/34ca1c3a-a366-49af-a7b9-494d6cc58605" />
+
 </p>
 
-🔗 Repository
+🔗 **Repository:**
 https://github.com/MK-codes365/vanisetu
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/MK-codes365/vanisetu">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MK-codes365&repo=vanisetu&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 ---
 
@@ -103,15 +95,9 @@ https://github.com/MK-codes365/vanisetu
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MK-codes365&theme=tokyo-night"/>
-</p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MK-codes365&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -145,14 +131,6 @@ https://github.com/MK-codes365/vanisetu
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
